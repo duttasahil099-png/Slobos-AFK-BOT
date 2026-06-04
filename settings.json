@@ -8,7 +8,7 @@
   "server": {
     "ip": "FaDLand.aternos.me",
     "port": 37686,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
